@@ -2,7 +2,6 @@
 </script>
 
 <template>
-	<main>
-		<div></div>
+	<main> 
 	</main>
 </template>
