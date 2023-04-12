@@ -99,6 +99,7 @@ hgroup div span:last-child {
     border-radius: 6px;
 }
 
+.hero__section--movie-links a:hover,
 .hero__section--movie-links a:focus,
 .hero__section--movie-links a:focus,
 .hero__section--movie-links a:focus-within {
